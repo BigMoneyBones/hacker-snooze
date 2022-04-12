@@ -1,0 +1,84 @@
+/* Styles */
+
+#header {
+    background-color: rgb(255, 102, 0);
+    color: black;
+}
+
+#y {
+    border: solid white 2px;
+    padding:10px;
+    margin: 1px;
+    color: white;
+}
+
+#hacker-news {
+    border-bottom: 2px solid black;
+}
+
+#new {
+    border: 2px solid black;
+    padding: px;
+}
+
+#past {
+    border: 2px solid black;
+    padding: px;
+}
+
+#comments {
+    border: 2px solid black;
+    padding: px;
+}
+
+#ask {
+    border: 2px solid black;
+    padding: px;
+}
+
+#show {
+    border: 2px solid black;
+    padding: px;
+}
+
+#jobs {
+    border: 2px solid black;
+    padding: px;
+}
+
+#submit {
+    border: 2px solid black;
+    padding: px;
+}
+
+#login {
+    justify-content: right;
+}
+
+#newListItem {
+    max-width: 100%;
+    margin: 2px;
+    padding: 2px;
+    border: 2px solid black;
+    background-color: blanchedalmond;
+}
+
+#main {}
+
+    #stories{
+        background-color: blanchedalmond;
+    }
+
+    
+#footer {}
+
+
+/* Media Queries */
+
+@media screen and (max-width: 700px) {
+
+    #header {
+        background-color: purple;
+    }
+
+}
